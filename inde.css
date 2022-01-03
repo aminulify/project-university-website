@@ -391,6 +391,7 @@
                                                                                                     background-position: center;
                                                                                                     background-size: cover;
                                                                                                     color: #fff;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .sub-header h1 {
@@ -404,35 +405,42 @@
                                                                                                     margin: auto;
                                                                                                     padding-top: 80px;
                                                                                                     padding-bottom: 50px;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .about-col {
                                                                                                     flex-basis: 48%;
                                                                                                     padding: 30px 2px;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .about-col img {
                                                                                                     width: 100%;
+                                                                                                   
                                                                                                 }
                                                                                                 
                                                                                                 .well {
-                                                                                                    position: absolute;
-                                                                                                    margin-left: 630px;
+                                                                                                    position: relative;
+                                                                                                    margin-left: 550px;
                                                                                                     margin-top: -350px;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .about-col h1 {
                                                                                                     padding-top: 0;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .about-col p {
                                                                                                     padding: 15px 0 25px;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .red-btn {
                                                                                                     border: 1px solid #f44336;
                                                                                                     background: transparent;
                                                                                                     color: #f44336;
+                                                                                                    overflow: hidden;
                                                                                                 }
                                                                                                 
                                                                                                 .red-btn:hover {
@@ -449,9 +457,11 @@
                                                                                                         margin-top: 0px;
                                                                                                         width: 400px;
                                                                                                         margin-bottom: -40px;
+                                                                                                        
                                                                                                     }
                                                                                                     .about-us {
                                                                                                         margin-top: -40px;
+                                                                                                       
                                                                                                     }
                                                                                                 }
                                                                                                 /*----course----*/
